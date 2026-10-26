@@ -6,13 +6,19 @@
 # Procedure:
 
 Step 1: 
-Design of PlayFair Cipher algorithnm.
+Design of PlayFair Cipher algorithm to encrypt plaintext using a key and a 5 × 5 key matrix..
 
 Step 2:
-Implementation using C or pyhton code.
+Implementation using C or python code.
 
 Step 3:
-Testing algorithm with different key values.ayfair Cipher using with different key values.
+Testing algorithm with different key values and plaintext inputs.
+
+Step 4:
+Apply Playfair Cipher using with different key and verify the corresponding encrypted outputs.
+
+Step 5:
+Observe and record the encrypted text for each test case.
 
 # Program:
 ```
